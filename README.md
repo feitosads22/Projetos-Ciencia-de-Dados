@@ -5,4 +5,4 @@ Utilizando Python e suas Principais Bibliotecas:
 - Seaborn
 - Matplotlib
 - Scikit-learn
-
+- Plotly
